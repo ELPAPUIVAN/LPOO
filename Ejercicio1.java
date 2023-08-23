@@ -1,4 +1,4 @@
-
+//punto 1
 public class LosSanguchesDeMiga {
 
 	public static void main(String [] args)
